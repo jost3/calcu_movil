@@ -24,9 +24,8 @@
             </StackLayout>
             <Frame AbsoluteLayout.LayoutBounds="0,1,1,0.1" AbsoluteLayout.LayoutFlags="SizeProportional,YProportional" BackgroundColor="#2a2d37"/>
             <Frame AbsoluteLayout.LayoutBounds="0,.95,1,0.62" AbsoluteLayout.LayoutFlags="SizeProportional,YProportional" BackgroundColor="#2a2d37" HasShadow="False" CornerRadius="45">
-                <Grid AbsoluteLayoc:\users\alumno\desktop\app_movil\calculadora\calculadora\assemblyinfo.cs
-ut.LayoutBounds="0,1,1,0.62" AbsoluteLayout.LayoutFlags="SizeProportional,YProportional" 
-                    RowDefinitions="*,*,*,*,*" ColumnDefinitions="*,*,*,*" Padding="10" RowSpacing="4" ColumnSpacing="4">
+                <Grid AbsoluteLayout.LayoutBounds="0,1,1,0.62" AbsoluteLayout.LayoutFlags="SizeProportional,YProportional" 
+                      RowDefinitions="*,*,*,*,*" ColumnDefinitions="*,*,*,*" Padding="10" RowSpacing="4" ColumnSpacing="4">
                     <Frame Grid.Column="0" Grid.Row="0" Padding="0" Margin="12" CornerRadius="12" BackgroundColor="#282b33">
                         <Button TextColor="#37ae9a" FontSize="38" VerticalOptions="Fill" Text="+" BackgroundColor="#282b33" Clicked="Btn_sumar"/>
                     </Frame>
