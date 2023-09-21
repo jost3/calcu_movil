@@ -636,3 +636,9 @@ C:\Users\Alumno\Desktop\app_MOVIL\CALCULADORA\CALCULADORA.Android\obj\Debug\130\
 C:\Users\Alumno\Desktop\app_MOVIL\CALCULADORA\CALCULADORA.Android\obj\Debug\130\stamp\_GenerateJavaStubs.stamp
 C:\Users\Alumno\Desktop\app_MOVIL\CALCULADORA\CALCULADORA.Android\obj\Debug\130\stamp\_GeneratePackageManagerJava.stamp
 C:\Users\Alumno\Desktop\app_MOVIL\CALCULADORA\CALCULADORA.Android\obj\Debug\130\stamp\_ResolveLibraryProjectImports.stamp
+C:\Users\Alumno\Desktop\app_MOVIL\CALCULADORA\CALCULADORA.Android\obj\Debug\130\res\mipmap-anydpi-v26\calcu.png
+C:\Users\Alumno\Desktop\app_MOVIL\CALCULADORA\CALCULADORA.Android\obj\Debug\130\res\mipmap-hdpi\calcu.png
+C:\Users\Alumno\Desktop\app_MOVIL\CALCULADORA\CALCULADORA.Android\obj\Debug\130\res\mipmap-mdpi\calcu.png
+C:\Users\Alumno\Desktop\app_MOVIL\CALCULADORA\CALCULADORA.Android\obj\Debug\130\res\mipmap-xhdpi\calcu.png
+C:\Users\Alumno\Desktop\app_MOVIL\CALCULADORA\CALCULADORA.Android\obj\Debug\130\res\mipmap-xxhdpi\calcu.png
+C:\Users\Alumno\Desktop\app_MOVIL\CALCULADORA\CALCULADORA.Android\obj\Debug\130\res\mipmap-xxxhdpi\calcu.png
