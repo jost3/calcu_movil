@@ -178,14 +178,22 @@ namespace CALCULADORA
 				}
 				else if (operador == 2)
 				{
-					numRespuesta = numeroUno - numeroDos;
+					numRespuesta = numeroUno * numeroDos;
 					lblNumber.Text = numRespuesta + "";
 				}
 				else
 				{
-					if (numeroDos == 0) { numeroDos = 1; }
-					numRespuesta = numeroUno / numeroDos;
-					lblNumber.Text = numRespuesta + "";
+					if (numRespuesta != 0)
+					{
+						lblNumber.Text = "NO SE PUEDE MOSTRAR";
+						return;
+					}
+					else if(operador == 3)
+					{
+						numRespuesta = numeroUno / numeroDos;
+						lblNumber.Text = numRespuesta + "";
+					}
+
 				}
 				numeroUno = 0; numeroDos = 0; numRespuesta = 0;
 				operador = 4; unoDecimal = false; dosDecimal = false;
